@@ -110,5 +110,7 @@ typings/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+### Do not push Build folder - gh-pages will do that
+build
 
 # End of https://www.gitignore.io/api/node,macos,visualstudiocode
