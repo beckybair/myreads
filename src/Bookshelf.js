@@ -16,6 +16,7 @@ class Bookshelf extends Component {
                     <Book
                       book={book}
                       moveShelf={this.props.moveShelf}
+                      currentShelf="currentlyReading"
                     />
                   </li>
                 ))}
@@ -33,6 +34,7 @@ class Bookshelf extends Component {
                     <Book
                       book={book}
                       moveShelf={this.props.moveShelf}
+                      currentShelf="wantToRead"
                     />
                   </li>
                 ))}
@@ -50,6 +52,7 @@ class Bookshelf extends Component {
                     <Book
                       book={book}
                       moveShelf={this.props.moveShelf}
+                      currentShelf="read"
                     />
                   </li>
                 ))}
