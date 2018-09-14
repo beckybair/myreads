@@ -15,7 +15,7 @@ We were to alter the existing app to use React with components and React Router 
 
 ## Live Viewing
 Here is a link to view the site/app live:  https://beckybair.github.io/myreads/
-
+Note:  unable to get live view to work on GitHub pages.
 
 ## Instructions
 _Run this on your device_
