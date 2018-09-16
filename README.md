@@ -5,16 +5,11 @@ We were to alter the existing app to use React with components and React Router 
 
 
 ## Table of Contents
-* [Live Viewing](#liveview)
 * [Instructions](#instructions)
 * [Dependecies](#dependecies)
 * [Contributing](#contributing)
 * [Backend Server](#backendserver)
 * [Important](#important)
-
-
-## Live Viewing
-Here is a link to view the site/app live:  xxx
 
 
 ## Instructions
