@@ -12,15 +12,16 @@
   "bugs": {
     "url": "https://github.com/beckybair/myreads/issues"
   },
-  "homepage": "https://github.com/beckybair/myreads#readme",
+  "homepage": "https://github.com/beckybair/myreads",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && mv build docs || move build docs",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
+    "npm": "^6.4.1",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
